@@ -1,0 +1,122 @@
+[
+    {
+        "name": "T-feature",
+        "color": "4287f5",
+        "description": "Type: a new feature to implement",
+        "aliases": []
+    },
+    {
+        "name": "T-documentation",
+        "color": "4287f5",
+        "description": "Type: write documentation",
+        "aliases": []
+    },
+    {
+        "name": "T-refactor",
+        "color": "4287f5",
+        "description": "Type: refactoring of existing code",
+        "aliases": []
+    },
+    {
+        "name": "T-test",
+        "color": "4287f5",
+        "description": "Type: add tests to the codebase",
+        "aliases": []
+    },
+    {
+        "name": "T-bug",
+        "color": "4287f5",
+        "description": "Type: fix a bug",
+        "aliases": []
+    },
+    {
+        "name": "T-performance",
+        "color": "4287f5",
+        "description": "Type: improve code performances",
+        "aliases": []
+    },
+    {
+        "name": "T-build",
+        "color": "4287f5",
+        "description": "Type: modify the build system or external dependecies",
+        "aliases": []
+    },
+    {
+        "name": "C-isolated",
+        "color": "fcba03",
+        "description": "Context: no previous knowledge of the codebase required",
+        "aliases": []
+    },
+    {
+        "name": "C-coupled",
+        "color": "fcba03",
+        "description": "Context: interact with some parts of the codebase",
+        "aliases": []
+    },
+    {
+        "name": "C-intricated",
+        "color": "fcba03",
+        "description": "Context: deep understanding of the codebase",
+        "aliases": []
+    },
+    {
+        "name": "D-easy",
+        "color": "eb4034",
+        "description": "Difficulty: anybody can understand it",
+        "aliases": []
+    },
+    {
+        "name": "D-intermediate",
+        "color": "eb4034",
+        "description": "Difficulty: mobilise some notions about the field, but can be learned while doing",
+        "aliases": []
+    },
+    {
+        "name": "D-hard",
+        "color": "eb4034",
+        "description": "Difficulty: require extensive knowledge about the field",
+        "aliases": []
+    },
+    {
+        "name": "L-under-a-day",
+        "color": "32a852",
+        "description": "Length: wil take up to one day",
+        "aliases": []
+    },
+    {
+        "name": "L-few-days",
+        "color": "32a852",
+        "description": "Length: will take a few days",
+        "aliases": []
+    },
+    {
+        "name": "L-weeks",
+        "color": "32a852",
+        "description": "Length: will take multiple weeks",
+        "aliases": []
+    },
+    {
+        "name": "S-preliminary",
+        "color": "ffffff",
+        "description": "State: on the drawing board",
+        "aliases": []
+    },
+    {
+        "name": "S-open",
+        "color": "ffffff",
+        "description": "State: ready for contribution",
+        "aliases": []
+    },
+    {
+        "name": "S-in-progress",
+        "color": "ffffff",
+        "description": "State: work in progress",
+        "aliases": []
+    },
+    {
+        "name": "S-review",
+        "color": "ffffff",
+        "description": "State: waiting on review",
+        "aliases": []
+    }
+]
