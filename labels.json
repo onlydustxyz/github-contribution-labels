@@ -1,44 +1,44 @@
 [
     {
-        "name": "T-feature",
+        "name": "K-feature",
         "color": "4287f5",
-        "description": "Type: a new feature to implement",
+        "description": "Kind: a new feature to implement",
         "aliases": []
     },
     {
-        "name": "T-documentation",
+        "name": "K-documentation",
         "color": "4287f5",
-        "description": "Type: write documentation",
+        "description": "Kind: write documentation",
         "aliases": []
     },
     {
-        "name": "T-refactor",
+        "name": "K-refactor",
         "color": "4287f5",
-        "description": "Type: refactoring of existing code",
+        "description": "Kind: refactoring of existing code",
         "aliases": []
     },
     {
-        "name": "T-test",
+        "name": "K-test",
         "color": "4287f5",
-        "description": "Type: add tests to the codebase",
+        "description": "Kind: add tests to the codebase",
         "aliases": []
     },
     {
-        "name": "T-bug",
+        "name": "K-bug",
         "color": "4287f5",
-        "description": "Type: fix a bug",
+        "description": "Kind: fix a bug",
         "aliases": []
     },
     {
-        "name": "T-performance",
+        "name": "K-performance",
         "color": "4287f5",
-        "description": "Type: improve code performances",
+        "description": "Kind: improve code performances",
         "aliases": []
     },
     {
-        "name": "T-build",
+        "name": "K-build",
         "color": "4287f5",
-        "description": "Type: modify the build system or external dependecies",
+        "description": "Kind: modify the build system or external dependecies",
         "aliases": []
     },
     {
@@ -117,6 +117,36 @@
         "name": "S-review",
         "color": "ffffff",
         "description": "State: waiting on review",
+        "aliases": []
+    },
+    {
+        "name": "T-cairo",
+        "color": "000000",
+        "description": "Techno: cairo",
+        "aliases": []
+    },
+    {
+        "name": "T-docker",
+        "color": "000000",
+        "description": "Techno: docker",
+        "aliases": []
+    },
+    {
+        "name": "T-python",
+        "color": "000000",
+        "description": "Techno: python",
+        "aliases": []
+    },
+    {
+        "name": "T-js",
+        "color": "000000",
+        "description": "Techno: javascript/typescript",
+        "aliases": []
+    },
+    {
+        "name": "T-rust",
+        "color": "000000",
+        "description": "Techno: rust",
         "aliases": []
     }
 ]
