@@ -148,5 +148,11 @@
         "color": "000000",
         "description": "rust",
         "aliases": []
+    },
+    {
+        "name": "Techno: dart",
+        "color": "000000",
+        "description": "rust",
+        "aliases": []
     }
 ]
