@@ -74,13 +74,13 @@
     {
         "name": "Difficulty: hard",
         "color": "eb4034",
-        "description": "require extensive knowledge about the field",
+        "description": "requires extensive knowledge about the field",
         "aliases": []
     },
     {
         "name": "Duration: under a day",
         "color": "32a852",
-        "description": "wil take up to one day",
+        "description": "will take up to one day",
         "aliases": []
     },
     {
