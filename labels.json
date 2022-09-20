@@ -1,157 +1,139 @@
 [
     {
         "name": "Type: feature",
-        "color": "4287f5",
+        "color": "BFD4F2",
         "description": "a new feature to implement",
         "aliases": []
     },
     {
         "name": "Type: documentation",
-        "color": "4287f5",
+        "color": "BFD4F2",
         "description": "write documentation",
         "aliases": []
     },
     {
         "name": "Type: refactor",
-        "color": "4287f5",
+        "color": "BFD4F2",
         "description": "refactor of existing code",
         "aliases": []
     },
     {
         "name": "Type: test",
-        "color": "4287f5",
+        "color": "BFD4F2",
         "description": "improve testing coverage",
         "aliases": []
     },
     {
         "name": "Type: bug",
-        "color": "4287f5",
+        "color": "BFD4F2",
         "description": "fix a bug",
         "aliases": []
     },
     {
         "name": "Type: performance",
-        "color": "4287f5",
+        "color": "BFD4F2",
         "description": "improve code performances",
         "aliases": []
     },
     {
         "name": "Type: build",
-        "color": "4287f5",
+        "color": "BFD4F2",
         "description": "modify the build system or its external dependecies",
         "aliases": []
     },
     {
         "name": "Context: isolated",
-        "color": "fcba03",
+        "color": "FEF2C0",
         "description": "no previous knowledge of the codebase required",
         "aliases": []
     },
     {
         "name": "Context: coupled",
-        "color": "fcba03",
+        "color": "FEF2C0",
         "description": "interact with some parts of the codebase",
         "aliases": []
     },
     {
         "name": "Context: intricated",
-        "color": "fcba03",
+        "color": "FEF2C0",
         "description": "deep understanding of the codebase required",
         "aliases": []
     },
     {
         "name": "Difficulty: easy",
-        "color": "eb4034",
+        "color": "F9D0C4",
         "description": "anybody can understand it",
         "aliases": []
     },
     {
         "name": "Difficulty: intermediate",
-        "color": "eb4034",
+        "color": "F9D0C4",
         "description": "mobilise some notions about the field, but can be learned while doing",
         "aliases": []
     },
     {
         "name": "Difficulty: hard",
-        "color": "eb4034",
+        "color": "F9D0C4",
         "description": "require extensive knowledge about the field",
         "aliases": []
     },
     {
         "name": "Duration: under a day",
-        "color": "32a852",
+        "color": "C2E0C6",
         "description": "wil take up to one day",
         "aliases": []
     },
     {
         "name": "Duration: few days",
-        "color": "32a852",
+        "color": "C2E0C6",
         "description": "will take a few days",
         "aliases": []
     },
     {
         "name": "Duration: weeks",
-        "color": "32a852",
+        "color": "C2E0C6",
         "description": "will take multiple weeks",
         "aliases": []
     },
     {
-        "name": "State: preliminary",
-        "color": "ffffff",
-        "description": "on the drawing board",
-        "aliases": []
-    },
-    {
-        "name": "State: open",
-        "color": "ffffff",
-        "description": "ready for contribution",
-        "aliases": []
-    },
-    {
-        "name": "State: in progress",
-        "color": "ffffff",
-        "description": "work in progress",
-        "aliases": []
-    },
-    {
-        "name": "State: review",
-        "color": "ffffff",
-        "description": "waiting on review",
-        "aliases": []
-    },
-    {
         "name": "Techno: cairo",
-        "color": "000000",
+        "color": "D4C5F9",
         "description": "cairo",
         "aliases": []
     },
     {
+        "name": "Techno: ruby",
+        "color": "D4C5F9",
+        "description": "ruby",
+        "aliases": []
+    },
+    {
         "name": "Techno: docker",
-        "color": "000000",
+        "color": "D4C5F9",
         "description": "docker",
         "aliases": []
     },
     {
         "name": "Techno: python",
-        "color": "000000",
+        "color": "D4C5F9",
         "description": "python",
         "aliases": []
     },
     {
         "name": "Techno: js",
-        "color": "000000",
+        "color": "D4C5F9",
         "description": "javascript/typescript",
         "aliases": []
     },
     {
         "name": "Techno: rust",
-        "color": "000000",
+        "color": "D4C5F9",
         "description": "rust",
         "aliases": []
     },
     {
         "name": "Techno: dart",
-        "color": "000000",
+        "color": "D4C5F9",
         "description": "dart",
         "aliases": []
     }
