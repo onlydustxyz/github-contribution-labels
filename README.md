@@ -17,7 +17,7 @@ npm install -g github-label-sync
 
 ```shell
 GITHUB_ACCESS_TOKEN-""
-github-label-sync -a $GITHUB_ACCESS_TOKEN -l ./github-contribution-labels/labels.json <organisation>/<repository>
+github-label-sync -a $GITHUB_ACCESS_TOKEN -l ./github-contribution-labels/labels.json -A <organisation>/<repository>
 ```
 
 ## Customization
